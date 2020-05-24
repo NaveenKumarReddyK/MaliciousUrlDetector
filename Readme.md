@@ -17,7 +17,7 @@ Use your own api in Line 50 of MalwareAPI.js
 > http://localhost:4000/vtapi
 > Type your url in ` vtUrl ` field (if you are uisng Post Man)
 
-Get result of ` MetaDScan ` scanner
+Get result of ` MetaDefender ` scanner
 > http://localhost:4000/metadscan
 > Type your url in ` metaScanUrl ` field (if you are uisng Post Man)
 
