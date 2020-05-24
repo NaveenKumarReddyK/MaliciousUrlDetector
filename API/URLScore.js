@@ -156,7 +156,7 @@ app.get("/vtapi", function (req, res) {
   var options = {
     method: "GET",
     url:
-      "https://www.virustotal.com/vtapi/v2/url/report?apikey=d5055ddaf9f1345c34cf6dc18f502feaa186ec07223e3bf8178eebeda4547556&resource=" +
+      "https://www.virustotal.com/vtapi/v2/url/report?apikey="ENTER YOUR URL VOID API KEY"&resource=" +
       url,
   };
   requestUrl(options, function (error, response, body) {
