@@ -29,6 +29,6 @@ Get Full Score of all links in a given ` URL `
 
 > http://localhost:4000/fullscan
 > Type url in  `fullScanUrl ` field
- All the details are displayed in console.
+ All the details are displayed in console
 
 
